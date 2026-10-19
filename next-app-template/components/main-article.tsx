@@ -2,7 +2,7 @@ import React from "react";
 import {Avatar} from "@nextui-org/avatar";
 
 export const MainArticle = ({styles}: { styles: any }) => {
-    var name:string = "hey";
+    var name:string = "hey"
 
     return(
         <>
